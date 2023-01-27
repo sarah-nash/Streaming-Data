@@ -7,6 +7,6 @@ The StreamingDataFilter.java file uses three main parameters:
 - windowWidth: the size of the window to average over (larger window size will show greater trends, smaller window size will more closely fit the data than show trends.
 - column: the (numerical) column of the file containing the data of interest. 
 
-Sample datasets included in this for this project are infrared, TPA weather, and US COVID data.
+Only .csv files are compatible with this project, sample datasets included are infrared, TPA weather, and US COVID datasets.
 Project created Spring 2021 Object Oriented Programming with Dr. Caitrin Eaton. 
 

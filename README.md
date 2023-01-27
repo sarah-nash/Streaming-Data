@@ -1,5 +1,4 @@
 # Streaming-Data
-oop project. purpose of this project was to filter through data using a windowed buffer, in preparation for filtering pixels of an image, mean and median of the window. 
  
 This project is an object-oriented approach to filtering data using a windowed buffer. Data is read into a sliding window and the window is averaged at each step with mean and median calculations. The averaged data is finally saved to an output file. 
 
